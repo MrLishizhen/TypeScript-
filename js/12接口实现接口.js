@@ -1,0 +1,6 @@
+class I {
+    run() {
+    }
+    swim() {
+    }
+}
